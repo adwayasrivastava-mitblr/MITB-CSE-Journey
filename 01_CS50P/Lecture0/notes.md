@@ -46,3 +46,18 @@ name = name.strip().title()
 print ("Hello, " + name)
 What is your name?      Adwaya srivastava    
 Output: Hello, Adwaya Srivastava
+
+## Int
+
+used to display integer values only
+
+## float
+used to display both integer and decimal points
+
+## def
+
+used to define a function
+
+## return
+
+used to return a value
