@@ -3,3 +3,12 @@
 if
 elif
 else
+
+>
+<
+==
+!=
+
+## match
+
+another type of if else
